@@ -193,9 +193,9 @@ http_archive(
 
 http_archive(
     name = "com_github_nelhage_rules_boost-zip",
-    url = "https://github.com/nelhage/rules_boost/archive/135d46b4c9423ee7d494c78a21ff621bc73c12f3.zip",
-    sha256 = "de8aac034cabe4a9ba5f7a33b9523862bf76c245a6c554c0e737f591bb7c7aeb",
-    strip_prefix = "rules_boost-135d46b4c9423ee7d494c78a21ff621bc73c12f3",
+    url = "https://github.com/nelhage/rules_boost/archive/1b106d17c61eca4154413983d8c0a54859ef3e38.zip",
+    sha256 = "fa2e61d7eba7875c3ce90697acc9a8b9e9ad158b08405eed1dba16abb1cef5d7",
+    strip_prefix = "rules_boost-1b106d17c61eca4154413983d8c0a54859ef3e38",
 )
 
 maybe(
